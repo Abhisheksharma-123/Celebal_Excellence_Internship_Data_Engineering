@@ -3,16 +3,16 @@
 
 This repository documents my learning journey during the Celebal Technologies Data Engineering Internship, where I complete weekly assignments and hands-on projects to strengthen my understanding of core Data Engineering concepts.
 
-Skills Covered
-Python
-Pandas
-SQL
-Data Cleaning & Exploration
-ETL / ELT Concepts
-Azure Data Factory
-Apache Spark
-Databricks
-Data Pipeline Design
+- Skills Covered
+- Python
+- Pandas
+- SQL
+- Data Cleaning & Exploration
+- ETL / ELT Concepts
+- Azure Data Factory
+- Apache Spark
+- Databricks
+- Data Pipeline Design
 
 # Assignment-week-1
 # Sports Shoes — Data Cleaning with Pandas
