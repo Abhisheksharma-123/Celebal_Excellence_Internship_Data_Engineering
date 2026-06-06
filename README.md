@@ -79,7 +79,7 @@ ACID Properties:
 - Durability: committed data persists
 
 
-# Week 3 Assignment – 
+# Assignment-Week-3 
 # SQL Analysis
 
 ## Objective
