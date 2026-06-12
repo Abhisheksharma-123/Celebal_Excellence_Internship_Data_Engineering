@@ -1,0 +1,30 @@
+{
+    "apiVersion": "2018-06-01",
+    "id": "/subscriptions/0d5b471a-759d-41bf-9a8d-087659f027bf/resourceGroups/rg_abhishek/providers/Microsoft.DataFactory/factories/88247-50511-abhi-sharma-qwsddswdsxdsdsdsds",
+    "name": "88247-50511-abhi-sharma-qwsddswdsxdsdsdsds",
+    "type": "microsoft.datafactory/factories",
+    "location": "eastus",
+    "tags": {},
+    "identity": {
+        "type": "SystemAssigned",
+        "principalId": "bc232c8e-93a5-42d0-910e-19d656293a01",
+        "tenantId": "b3e6cc0f-dbfe-4727-86ef-7d7bd9dd3c53"
+    },
+    "properties": {
+        "provisioningState": "Succeeded",
+        "createTime": "2026-06-12T17:12:58.503Z",
+        "version": "2018-06-01",
+        "factoryStatistics": {
+            "totalResourceCount": 0,
+            "maxAllowedResourceCount": 0,
+            "factorySizeInGbUnits": 0,
+            "maxAllowedFactorySizeInGbUnits": 0
+        },
+        "publicNetworkAccess": "Enabled",
+        "trustModeClaimForMi": {
+            "value": "Disabled",
+            "editable": true
+        }
+    },
+    "etag": "\"2a002731-0000-0100-0000-6a2c3e1a0000\""
+}
