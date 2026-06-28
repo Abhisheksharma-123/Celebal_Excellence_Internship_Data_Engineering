@@ -166,6 +166,8 @@ Blob Storage (Source CSV) → Get Metadata → Copy Data Activity → Destinatio
 ## Conclusion
 This project helped in understanding Azure cloud fundamentals, Azure Storage, IAM roles, and building a complete data pipeline using Azure Data Factory.
 
+
+
 # Assignment-Week-5
 # Spark Fundamentals
 ## Objective
@@ -211,3 +213,51 @@ Learn Spark fundamentals and perform data cleaning, transformation, and aggregat
 
 ## Conclusion
 This assignment provided hands-on experience with Spark DataFrames, data transformation, aggregation, and data cleaning techniques. It helped in understanding how Spark efficiently processes large datasets using distributed computing and in-memory processing.
+
+
+
+# Assignment-Week-6
+# Spark Architecture and Data Processing
+
+## Objective
+
+Learn Spark Architecture and perform data processing using PySpark. Read data from CSV and Parquet files, apply transformations, handle null values, and build a simple data pipeline.
+
+## Tools Used
+
+- Python
+- PySpark
+- Databricks
+- CSV
+- Parquet
+
+## Tasks Performed
+
+- Studied Spark Architecture
+- Read CSV and Parquet files
+- Filtered and selected data
+- Renamed columns
+- Cast data types
+- Added new columns
+- Handled null values
+- Compared CSV and Parquet
+- Built a simple data pipeline
+- Saved processed data as CSV
+
+## Concepts Covered
+
+- Spark Architecture
+- Lazy Evaluation
+- DAG
+- Transformations and Actions
+- Shuffle
+- Predicate Pushdown
+- Schema Handling
+
+## Output
+
+Successfully processed the dataset using PySpark and stored the cleaned data in CSV and Parquet formats.
+
+## Learning Outcome
+
+This assignment helped me understand Spark Architecture, DataFrame operations, file formats, and basic performance optimization techniques in PySpark.
