@@ -294,7 +294,7 @@ Learn the basics of Delta Lake by creating, managing, and working with Delta tab
 - Databricks File Management
 
 ## Repository Contents
-- `Assignment_Week_7.ipynb` – Assignment notebook
+- `week7_assignment.ipynb` – Assignment notebook
 - `README.md` – Project documentation
 
 ## Conclusion
